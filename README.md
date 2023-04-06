@@ -1,6 +1,6 @@
 # Medical-Insurance-Cost-Prediction
 
-Predicting the medical insurance cost of a person
+## Predicting the medical insurance cost of a person
 Performed data analysis, data visualization and data preprocessing on insurance data
 Train the model and evaluated the model
 Built a predictive system to calculate the cost of medical insurance of a person
