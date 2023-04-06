@@ -1,4 +1,4 @@
-# Medical-Insurance-Cost-Prediction
+# Medical Insurance Cost Prediction
 
 ## Predicting the medical insurance cost of a person
 * Performed data analysis, data visualization and data preprocessing on insurance data
